@@ -15,7 +15,7 @@ For these columns, we used the 'Condition Column' option in the 'General' group 
 # The Data After Transformation
 ![cleaned_ _transformed_data](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/61c86478-8a20-4cbd-8b3f-09a944f8e866)
 
-This data was then used to form the interactive dashboard shown in the next section.
+This data was then used to form the interactive dashboard shown in the next section. <br> <br>
 
 # The Interactive Dashboard
 ![dashboard](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/c57ea836-7b2b-4bcc-ac4a-89ac8be52570) <br> <br>
