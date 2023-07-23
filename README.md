@@ -2,7 +2,7 @@
 This repository showcases my personal project where I analysed data regarding customer credit card defaults from Taiwan in 2005 using PowerBI, as a means to start my learning with the tool. The data was extracted from UCI Machine Learning Repository, however, it was altered prior to use. A new column, 'STATE' was added to the data that randomly assigned a state location in USA to customer. <br> <br>
  
 # The Data
-![raw_data](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/6a17b85c-f135-4411-9493-990499c1cea3)
+![raw_data](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/6a17b85c-f135-4411-9493-990499c1cea3) <br> <br>
 
 # Data Preparation
 We can see from the above data that it needs to be transformed to make sense. For example, the `SEX`, `MARRIAGE`, and `EDUCATION` columns have certain numbers to indicate certain categories. Also, the top row indicating columns as X1, X2, X3, ..., is deleted as this is not descriptive of the data. Now the new top row shows descriptive information about the columns, and is made to be the column header in PowerBI through data transformation. <br> <br>
