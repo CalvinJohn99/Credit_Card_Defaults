@@ -63,14 +63,14 @@ We see that most credit card defaults for customer below ages 30 appear to be co
 <br>
 
 ![graduate](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/658a95c1-36f1-4056-9579-ba574509933c)
-
+We find that customers who have a graduate educatio level default more when they are single, while the percentage of total credit card defaults decreases to 19%, i.e., graduates don't default as much.
 <br><br>
 
 ![highschool](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/f48eb6f4-dc0f-4ef8-9e0f-4a29640e09a0)
-
+We see that the majority of credit card defaults for customers above age 30 comes from customers who have a highschool education level. We also find that marrited customers with this highschool level default more, while the percentage of total credit card defaults increases to 25%, i.e., customers at the highschool level default most.
 <br><br>
 
 ![undergraduate](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/f3035455-f73d-4a74-81ca-4eb0669bd982)
-
+We find that the percentage of total credit card defaults increases to 24%, i.e., customers with an undergraduate education level defaults more.
 
 
