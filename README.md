@@ -18,4 +18,7 @@ For these columns, we used the 'Condition Column' option in the 'General' group 
 This data was then used to form the interactive dashboard shown in the next section.
 
 # The Interactive Dashboard
-![dashboard](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/fb7f272a-cb03-4d6a-be0d-c54e664c4e3d)
+![dashboard](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/c57ea836-7b2b-4bcc-ac4a-89ac8be52570)
+
+
+# Insights
