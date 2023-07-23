@@ -1,5 +1,5 @@
 # About the Project
-This repository showcases my personal project where I analysed data regarding customer credit card defaults from Taiwan in 2005 using PowerBI, as a means to start my learning with the tool. The data was extracted from UCI Machine Learning Repository, however, it was altered prior to use. A new column, 'STATE' was added to the data that randomly assigned a state location in USA to customer. <br> <br>
+This repository showcases my personal project where I analysed data regarding customer credit card defaults from Taiwan in 2005 using PowerBI, as a means to start my learning with the tool. The data was extracted from ![UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients), however, it was altered prior to use. A new column, 'STATE' was added to the data that randomly assigned a state location in USA to customer. <br> <br>
  
 # The Data
 ![raw_data](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/6a17b85c-f135-4411-9493-990499c1cea3) <br> <br>
@@ -43,4 +43,7 @@ The map we see in the dashboard is a shape map that is color saturated by the nu
 
 ## 5. Defaulted Ratio
 We find that 22% of all customers have defaulted their credit cards.
+
+## 6. Slicers - Education level & Marital Status
+
 
