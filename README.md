@@ -42,19 +42,24 @@ The map we see in the dashboard is a shape map that is color saturated by the nu
 
 
 ## 5. Defaulted Ratio
-We find that 22% of all customers have defaulted their credit cards.
+<br>
+We find that 22% of all customers have defaulted their credit cards. <br><br>
 
 ## 6. Slicers - Education level & Marital Status
 ### Marital Status
+<br>
 ![married](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/1f0e8172-7a67-4289-9c8a-7486a1d173cc)
-We see that married customers default more when at ages closer to 35 (for females) and 38 (for males). We also find that the percentage of credit card defaults increases to 23%.
+We see that married customers default more when at ages closer to 35 (for females) and 38 (for males). We also find that the percentage of credit card defaults increases to 23%. <br><br>
 
 ![single](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/1b0accbe-2bb6-47da-8e44-cc305e9399f1)
 We see that most credit card defaults for customer below ages 30 appear to be coming from single individuals, while single customers above age 30 have very few credit card defaults in comparison. We also fine that the percentage of credit card defaults decreases to 21%.
-
+<br><br>
 ### Education Level
+<br>
 ![graduate](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/658a95c1-36f1-4056-9579-ba574509933c)
+<br><br>
 ![highschool](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/f48eb6f4-dc0f-4ef8-9e0f-4a29640e09a0)
+<br><br>
 ![undergraduate](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/f3035455-f73d-4a74-81ca-4eb0669bd982)
 
 
