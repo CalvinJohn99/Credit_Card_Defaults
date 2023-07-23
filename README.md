@@ -21,4 +21,23 @@ This data was then used to form the interactive dashboard shown in the next sect
 ![dashboard](https://github.com/CalvinJohn99/Credit_Card_Defaults/assets/40469219/c57ea836-7b2b-4bcc-ac4a-89ac8be52570)
 
 
-# Insights
+# Exploratory Data Analysis & Insights
+## 1. Defaulted by Age and Sex 
+<br>
+The distribution of credit card defaults across the ages seems to be fairly similar for both sexes, however, we find that at ages below 30, females default significantly more than males, at the peak we see that females default 201 times, while males default 112 times at age 27. This could be partially influenced by the fact that we have more females than males as customers.
+
+## 2. Defaulted by Education Level and Sex 
+<br>
+We see that customer with an undergraduate degree defaults most (defaults: 1922 females, 1408 males) while customers that are at high school level defaults the least (defaults: 692 females, 545 males). We also find that females default more at each education level in comparison to males.
+
+## 3. Defaulted by Marital Status and Sex 
+<br>
+We see that the distribution of credit card defaults appear very similar whether they are married or single. When married, the sum of defaults is 1856 for females, 1485 for males. When single, the sum of defaults is 1860 for females, 1346 for males. Again, males default their credit cards less than females in both the categories.
+
+## 4. Defaulted by State
+<br>
+The map we see in the dashboard is a shape map that is color saturated by the number of defaults in the state. The map shows that Florida (156 defaults), and Idaho (160 defaults) are the most saturated states, meaning they have the most credit card defaults.
+
+## 5. Defaulted Ratio
+We find that 22% of all customers have defaulted their credit cards.
+
