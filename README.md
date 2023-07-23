@@ -34,6 +34,7 @@ We see that customer with an undergraduate degree defaults most (defaults: 1922 
 <br>
 We see that the distribution of credit card defaults appear very similar whether they are married or single. When married, the sum of defaults is 1856 for females, 1485 for males. When single, the sum of defaults is 1860 for females, 1346 for males. Again, males default their credit cards less than females in both the categories.
  <br> <br>
+ 
 ## 4. Defaulted by State
 <br>
 The map we see in the dashboard is a shape map that is color saturated by the number of defaults in the state. The map shows that Florida (156 defaults), and Idaho (160 defaults) are the most saturated states, meaning they have the most credit card defaults. <br> <br>
